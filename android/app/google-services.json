@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381793400411",
+    "firebase_url": "https://perkedel-brew-crew.firebaseio.com",
+    "project_id": "perkedel-brew-crew",
+    "storage_bucket": "perkedel-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381793400411:android:e952dcb7902fccd55eb17e",
+        "android_client_info": {
+          "package_name": "com.perkedel.brewcrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381793400411-44hf80dki0ngooc0teqhsa5pmds9cks7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBGo7fX4ytShXoEXrnVcv_rYCFKonLE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381793400411-44hf80dki0ngooc0teqhsa5pmds9cks7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
